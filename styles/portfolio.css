@@ -1,6 +1,7 @@
 /* Common shared Style */
 body {
     font-family: 'Open Sans', sans-serif;
+    font-family: 'Lato', sans-serif;
 }
 
 .primary-color {
@@ -14,7 +15,7 @@ body {
     color: white;
     font-size: 20px;
     font-weight: 700;
-    padding: 18px 35px 19px 36px;
+    padding: 15px 35px;
 }
 
 .section-title {
@@ -38,7 +39,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 0 200px;
+    margin: 0px 200px;
 }
 
 .nav-title {
@@ -100,10 +101,10 @@ nav a {
     margin-bottom: 20px;
 
 }
-
+/* 
 #button-1 {
     margin: 0px 30px 0px 0px;
-}
+} */
 
 /* main section styles */
 main{
