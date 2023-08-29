@@ -117,7 +117,7 @@ main{
     padding: 130px;
     border-radius: 10px;
     background: #FFF8F3;
-    margin: 130px 0px;
+    margin: 130px 0;
 }
 .about-info-container{
     display: flex;
